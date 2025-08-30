@@ -1,119 +1,81 @@
-<!-- 
-Hi Bhuvnesh! This is a more visually-driven version of your README.
-Feel free to change the colors, images, and text to match your style.
--->
-
-<!-- Dynamic Typing Banner -->
+<h1 align="center">👋 Hi, I'm Bhuvnesh</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFEA00&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Bhuvnesh;First-Year+CSE+Student;Web+%26+Cybersecurity+Explorer;Always+Learning+...;Let's+Build+Something+Cool." alt="Typing SVG" />
-  </a>
+  <b>First Year CSE Student · Exploring Web Development, DSA & Cybersecurity</b>
 </p>
 
-<!-- Two-column "About Me" section -->
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>🚀 A Little More About Me</h3>
-      <p>I'm a passionate and curious first-year Computer Science student, diving headfirst into the world of technology. My goal is to build a strong foundation in software development and cybersecurity while turning creative ideas into reality.</p>
-      <ul>
-        <li>🌱 I’m currently focused on <b>Data Structures & Algorithms</b> in <b>Java & C++</b>.</li>
-        <li>💻 I’m exploring web development with the <b>MERN</b> stack.</li>
-        <li>🔒 I have a keen interest in <b>Networking & Ethical Hacking</b> fundamentals.</li>
-        <li>🤝 Open to collaborating on <b>beginner-friendly web dev or open-source projects</b>.</li>
-        <li>💬 Ask me about anything related to my learning journey!</li>
-      </ul>
-      <hr>
-      <p align="center">
-        <i><b>Learn → Build → Break → Improve</b></i>
-      </p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/devdC2SJh4AM2YV5fD/giphy.gif" alt="Coder GIF" width="100%">
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YourTwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Learning+Java+%26+DSA;Starting+with+HTML%2C+CSS+%26+JavaScript;Exploring+Networking+and+Cybersecurity;Step+by+step+building+my+skills" alt="Typing animation" />
 </p>
 
 ---
 
-### 🛠️ My Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Env</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </td>
-  </tr>
-</table>
+## 🧑‍💻 About Me
+- 🎓 First-year **CSE student** — just starting my coding journey.  
+- 📚 Planning to learn **Java, Python, C++, C, DSA, HTML, CSS, JavaScript** step by step.  
+- 💻 Using **VS Code, Linux, GitHub** as my main tools.  
+- 🔐 Interested in **Networking & Cybersecurity basics**.  
+- 🛠️ My approach: **learn by building small projects** and improving over time.  
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Bhuvnesh's GitHub Stats" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Bhuvnesh's Top Languages" />
-  </a>
-  <br><br>
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
+## 🛠️ Tech Stack (Learning Path)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="C" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" title="GitHub"/>
 </p>
 
 ---
 
-### 📂 Projects I'm Working On
+## 📂 Projects (Planned / Learning)
+| Project | Status | Focus |
+|---|---|---|
+| 🌐 Portfolio Website v1 | 🔄 In Progress | HTML, CSS, JS |
+| ☕ Java Basics | 📝 Planned | Loops, arrays, OOP in Java |
+| 🧮 DSA Practice | 📝 Planned | Arrays, recursion, linked lists |
+| 🔑 Networking Lab Notes | 📝 Planned | Networking + Cyber basics |
 
-| Project | Tech Stack | Status | Link |
-| :--- | :--- | :---: | :---: |
-| 🌐 **Personal Portfolio v1** | `HTML`, `CSS`, `JavaScript` | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) | [Repo](https://github.com/YourUsername/Portfolio) |
-| 🧮 **DSA Practice Arena** | `C++`, `Java`, `Python` | ![Planned](https://img.shields.io/badge/Planned-blue?style=for-the-badge) | `Coming Soon` |
-| 🔑 **Cybersecurity Notes** | `Markdown` | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) | `Coming Soon` |
+---
 
-<br>
+## 🎯 Goals
+**Short-term (this semester):**  
+- Learn **Java basics** + start with **DSA**.  
+- Build and deploy **Portfolio Website v1**.  
+- Get comfortable with **Linux & GitHub**.  
+
+**Long-term (1–2 years):**  
+- Become strong in **DSA** for placements/competitions.  
+- Build projects in **Web Development**.  
+- Explore **Cybersecurity labs & CTFs**.  
+- Contribute to **open source**.  
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://gpvc.arturio.dev/YourUsername" alt="Bhuvnesh's Profile Views">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhuvneshdevx&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvneshdevx&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=bhuvneshdevx&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p>
+  <a href="mailto:bhuvnesh.devx@gmail.com"><img src="https://img.shields.io/badge/Email-bhuvnesh.devx%40gmail.com-red?logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="https://www.linkedin.com/in/bhuvnesh-z-64885b381/"><img src="https://img.shields.io/badge/LinkedIn-Bhuvnesh-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://github.com/bhuvneshdevx"><img src="https://img.shields.io/github/followers/bhuvneshdevx?label=Follow&style=social" alt="GitHub Followers" /></a>
+</p>
+
+---
+
+<sub>✨ This README reflects my **current stage as a beginner**. I’ll keep updating it as I learn, build, and grow.</sub>
