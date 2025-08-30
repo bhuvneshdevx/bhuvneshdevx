@@ -1,97 +1,53 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Bhuvnesh 👋</h1>
 <p align="center">
-  <b>First Year CSE Student · Aspiring Web Developer · Exploring Cybersecurity</b>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Java%2C+JavaScript%2C+HTML+%26+CSS;Building+projects+to+learn+by+doing;Exploring+Networking+%26+Cybersecurity;Open+to+collaboration+and+feedback+🤝" alt="Typing animation" />
+<pre style="color:#ffea00;font-size:18px;line-height:1.1em;">
+██████╗ ██╗   ██╗██╗   ██╗██╗   ██╗███████╗██████╗ ███████╗███████╗
+██╔══██╗██║   ██║██║   ██║██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝
+██████╔╝██║   ██║██║   ██║██║   ██║█████╗  ██████╔╝█████╗  █████╗  
+██╔═══╝ ██║   ██║██║   ██║██║   ██║██╔══╝  ██╔══██╗██╔══╝  ██╔══╝  
+██║     ╚██████╔╝╚██████╔╝╚██████╔╝███████╗██║  ██║███████╗███████╗
+╚═╝      ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+</pre>
 </p>
 
-<p align="center">
-  <a href="mailto:bhuvnesh.devx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhuvnesh.devx%40gmail.com-red?logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhuvnesh-z-64885b381/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhuvnesh-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/bhuvneshdevx">
-    <img src="https://img.shields.io/github/followers/bhuvneshdevx?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/bhuvneshdevx">
-    <img src="https://img.shields.io/github/stars/bhuvneshdevx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
-  </a>
+<p align="center" style="background:#000;color:#fff;padding:12px;border-radius:10px;font-size:24px;">
+  👋 Hey, I'm <span style="color:#ffea00;">Bhuvnesh</span>
+</p>
+<p align="center" style="background:#ffea00;color:#000;padding:8px 16px;display:inline-block;border:3px solid #000;border-radius:8px;font-weight:bold;">
+  🎓 First-Year CSE Student · 🌐 Web Development · 📊 DSA · 🔐 Cybersecurity
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 First-year **CSE** student who recently started coding
-- 🌱 Currently learning **Java**, **JavaScript**, **HTML/CSS**, and **Networking basics**
-- 🔐 Curious about **Cybersecurity** and hands-on practice through labs/CTFs
-- 🧩 I learn by **building small, focused projects** and iterating
-- 🤝 Open to beginner-friendly collaboration and code reviews
+## 🧑‍💻 About Me
+> 🚀 **Curious mind at the start of my tech journey.**  
+> 📚 Currently exploring: **Java, Python, C++, C, DSA, HTML, CSS, JavaScript**.  
+> 🛠️ Tools I’m getting comfortable with: **VS Code · Linux · GitHub**.  
+> 🔒 Special interest: **Networking & Cybersecurity basics**.  
+> 💡 Motto: *Learn → Build → Break → Improve*.  
 
 ---
 
-## 🧰 Tech Stack (Growing)
-<p>
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" title="CSS3"/>
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="VS Code" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" title="Linux"/>
-</p>
+## 🛠️ Tech Stack · Learning Path
+<div align="center">
 
-> **Learning next:** DOM basics → Fetch API → Tailwind → Java OOP → DSA fundamentals → Basic networking & security labs.
+![Java](https://img.shields.io/badge/-Java-fc4445?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000)
+![C](https://img.shields.io/badge/-C-3f72af?style=for-the-badge&logo=c&logoColor=white&labelColor=000)
+![C++](https://img.shields.io/badge/-C++-f67280?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000)
+![Python](https://img.shields.io/badge/-Python-ff8c42?style=for-the-badge&logo=python&logoColor=white&labelColor=000)  
+![HTML5](https://img.shields.io/badge/-HTML5-ff5c8d?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)
+![CSS3](https://img.shields.io/badge/-CSS3-ffd460?style=for-the-badge&logo=css3&logoColor=black&labelColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-38b000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)  
+![Linux](https://img.shields.io/badge/-Linux-222831?style=for-the-badge&logo=linux&logoColor=white&labelColor=000)
+![Git](https://img.shields.io/badge/-Git-ff9a3c?style=for-the-badge&logo=git&logoColor=white&labelColor=000)
+![GitHub](https://img.shields.io/badge/-GitHub-4f98ca?style=for-the-badge&logo=github&logoColor=white&labelColor=000)
 
----
-
-## 📦 Projects (Early Work)
-> I keep projects small & focused so I can iterate quickly.
-
-| Project | What it is | Tech | Link |
-|---|---|---|---|
-| Portfolio v1 | A clean, responsive personal website with animations | HTML, CSS, JS | 🔗 [Repo](https://github.com/bhuvneshdevx/portfolio) *(placeholder)* |
-| Java Basics | Mini Java programs: I/O, loops, arrays, OOP | Java | 🔗 [Repo](https://github.com/bhuvneshdevx/java-basics) *(placeholder)* |
-| Web Experiments | Small frontend experiments (forms, modals, effects) | HTML, CSS, JS | 🔗 [Repo](https://github.com/bhuvneshdevx/web-experiments) *(placeholder)* |
-
-> Replace the “*(placeholder)*” repos with your actual ones when ready.
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhuvneshdevx&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvneshdevx&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=bhuvneshdevx&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🗺️ Learning Roadmap (2025)
-- [ ] Finish **Portfolio v1** (Home, About, Projects, Contact, form validation)
-- [ ] Solve **50+** beginner **Java** exercises (loops, arrays, strings)
-- [ ] Start **DSA**: arrays, stacks/queues, linked lists, complexity basics
-- [ ] Learn **DOM** & **Fetch API**, build 3 mini web apps
-- [ ] Basics of **Networking** (OSI/TCP-IP) + 1 **security lab/CTF**
-- [ ] Contribute a **first PR** to an open-source repo
-
----
-
-## 📫 Contact
-- 📧 Email: **bhuvnesh.devx@gmail.com**
-- 🔗 LinkedIn: **/in/bhuvnesh-z-64885b381/**
-- 💻 GitHub: **@bhuvneshdevx**
-
-> If you have tips, feedback, or project ideas, I’d love to hear from you!
-
----
-
-<sub>✨ *This README grows with me. Check back for updates as I learn and ship more.*</sub>
+## 📂 Projects · In Progress / Planned
+```diff
++ 🌐 Portfolio Website v1   →  In Progress   (HTML, CSS, JS)
++ ☕ Java Basics            →  Planned       (Loops, Arrays, OOP)
++ 🧮 DSA Practice           →  Planned       (Arrays, Recursion, Linked Lists)
++ 🔑 Networking Notes       →  Planned       (Networking + Cyber Basics)
